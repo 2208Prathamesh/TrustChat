@@ -3,7 +3,7 @@
 
 The goal of TrustChat is to create a messaging system where **only the sender and receiver can read the messages**, ensuring complete privacy and protection from third-party access.
 
--Build By **Prathamesh Barbole**
+Build By **Prathamesh Barbole** @2208Prathamesh
 
 
 ---
