@@ -105,7 +105,7 @@ Key principles:
 * No plaintext message storage
 * Secure authentication system
 * Minimal data collection
-* 
+ 
 ---
 # 🤝 Contributing
 Contributions are welcome.
