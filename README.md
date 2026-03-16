@@ -105,14 +105,7 @@ Key principles:
 * No plaintext message storage
 * Secure authentication system
 * Minimal data collection
----
-# 📌 Roadmap
-Upcoming features:
-* 🔑 Advanced key management
-* 📱 Mobile support
-* 🖼 Media sharing
-* 🌐 Group chats
-* 🧠 AI-powered spam detection
+* 
 ---
 # 🤝 Contributing
 Contributions are welcome.
