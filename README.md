@@ -1,6 +1,7 @@
 # 🔐 TrustChat beta v1.0.0
 
-**TrustChat** is a privacy-focused, end-to-end encrypted messaging platform designed to provide secure and reliable communication.  -by *Prathamesh Barbole*
+**TrustChat** is a privacy-focused, end-to-end encrypted messaging platform designed to provide secure and reliable communication.  
+-by **Prathamesh Barbole**
 
 The goal of TrustChat is to create a messaging system where **only the sender and receiver can read the messages**, ensuring complete privacy and protection from third-party access.
 
