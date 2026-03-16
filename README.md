@@ -1,6 +1,6 @@
 # 🔐 TrustChat beta v1.0.0 
 ![\[!image\](https://i.imgur.com/5UtEp67.jpeg)](https://github.com/2208Prathamesh/TrustChat/blob/main/public/ss%20(1).png)
-![\[!image\](https://i.imgur.com/5UtEp67.jpeg)](https://i.imgur.com/5UtEp67.jpeg)
+![\[!image\](https://i.imgur.com/5UtEp67.jpeg)](https://github.com/2208Prathamesh/TrustChat/blob/main/public/ss%20(2).png)
 **TrustChat** is a privacy-focused, end-to-end encrypted messaging platform designed to provide secure and reliable communication.
 
 The goal of TrustChat is to create a messaging system where **only the sender and receiver can read the messages**, ensuring complete privacy and protection from third-party access.
